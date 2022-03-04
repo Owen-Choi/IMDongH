@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<p>dong</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
